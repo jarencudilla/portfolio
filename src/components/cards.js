@@ -2,7 +2,7 @@ import React from 'react';
 import { Card } from 'react-bootstrap';
 import "../styles/tabs.css";
 
-function Cards() 
+function vCards() 
 { 
         return <div><Card className = 'card-border'>
         <Card.Body>
@@ -40,4 +40,4 @@ function Cards()
       </div>
 } 
 
-export default Cards;
+export default vCards;
