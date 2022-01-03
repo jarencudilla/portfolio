@@ -2,7 +2,7 @@ import React from 'react';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import VCards from './cards';
 
-function hTabs () 
+function HTabs() 
 { 
   return <div class="fluid-container"><Tabs>
     <TabList>
@@ -28,4 +28,4 @@ function hTabs ()
 
 }
 
-export default hTabs;
+export default HTabs;

@@ -1,7 +1,7 @@
 import React from 'react'; 
-import '../App.css';
+import '../styles/App.css';
 
-function Header ()
+function Header()
 {
 return <div>
 <h3 className="h3-text">I am Jaren,</h3>

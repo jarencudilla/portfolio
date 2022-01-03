@@ -1,7 +1,7 @@
 import React from 'react';
 import './styles/index.css';
 import Header from './components/header';
-import hTabs from './components/tabs';
+import HTabs from './components/tabs';
 import Footer from './components/footer';
 
 
@@ -15,10 +15,11 @@ function App() {
           /> */}
         <Header />
       </header>
-      <hTabs />
+      <HTabs />
       </div>
     <div className='icons-List'><Footer/>
-    </div></div>
+    </div>
+    </div>
   );
 }
 
