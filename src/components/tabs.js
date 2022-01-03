@@ -1,7 +1,6 @@
 import React from 'react'; 
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-import "../Tabs.css";
-import VCards from '../components/Cards';
+import VCards from './cards';
 
 function hTabs () 
 { 

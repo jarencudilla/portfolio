@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
-import "../Tabs.css";
+// import "../Tabs.css";
 
 function Cards() 
 { 
