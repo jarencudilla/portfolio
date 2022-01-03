@@ -7,25 +7,25 @@
 
 
 .app-header {
-  background-color: #64ffda;
+  background-color: #0674a0;
   max-height: 45vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(24, 22, 22);
+  color: #060308;
 }
 
 .app-link {
-  color: #12061b;
+  color: #060308;
 }
 
 .icons-list {
   position: fixed;
   display: inline-block;
   width: 100%;
-  background-color: #64ffda;
+  background-color: #0674a0;
 height: 7vh;
 
 }
@@ -52,7 +52,7 @@ height: 7vh;
 .h4-text {
   padding-top: 0px;
   margin-top: 2px;
-  color: rgb(40, 7, 82);
+  color: #060308;
 }
 .app-logo {
   background-size: cover;
