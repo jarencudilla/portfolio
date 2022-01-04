@@ -4,8 +4,6 @@
   min-height: 100%;
 }
 
-
-
 .app-header {
   background-color: #0674a0;
   max-height: 45vh;
@@ -25,23 +23,23 @@
   position: fixed;
   display: inline-block;
   width: 100%;
-  background-color: #0674a0;
-height: 7vh;
-
+  background-color: #272829;
+  height: 10vh;
 }
 
 .social-media-list {
   display: inline-block;
-    border: 1px solid transparent;
-    border-bottom: none;
-    position: relative;
-    list-style: none;
-    padding: 3px;
-    cursor: pointer;
-    flex-direction: column;
-    text-align: center;
-    margin-inline-start: 15%;
-    }
+  border: 1px solid transparent;
+  border-bottom: none;
+  position: relative;
+  list-style: none;
+  bottom: -10%;
+  padding: 3px;
+  cursor: pointer;
+  flex-direction: column;
+  text-align: center;
+  margin-inline-start: 15%;
+}
 
 .h3-text {
   padding-bottom: 0px;
@@ -49,11 +47,13 @@ height: 7vh;
   margin-top: 2px;
   padding-top: 0px;
 }
+
 .h4-text {
   padding-top: 0px;
   margin-top: 2px;
   color: #060308;
 }
+
 .app-logo {
   background-size: cover;
   display: block;
@@ -61,6 +61,6 @@ height: 7vh;
   -webkit-border-radius: 1000px;
   -moz-border-radius: 1000px;
   width: 30vh;
- height: 30vh;
- margin-top: 5vh;
+  height: 30vh;
+  margin-top: 5vh;
 }
