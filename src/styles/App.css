@@ -5,7 +5,7 @@
 }
 
 .app-header {
-  background-color: #0674a0;
+  background-color: #fcfcfcd0;
   max-height: 45vh;
   display: flex;
   flex-direction: column;
@@ -23,7 +23,7 @@
   position: fixed;
   display: inline-block;
   width: 100%;
-  background-color: #272829;
+  background-color: #fcfcfcd0;
   height: 10vh;
 }
 

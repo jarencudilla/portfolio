@@ -47,7 +47,7 @@
   left: -4px;
   right: -4px;
   bottom: -5px;
-  background: #fff;
+  background-color: #fcfcfcd0;
 }
 
 .react-tabs__tab-panel {
@@ -63,7 +63,7 @@
 }
 
 .card-border {
-  border: solid 5px rgb(40, 7, 82);
+  border: solid 2px #242323d0;
   color: 'black';
   width: 20%;
   height: 35vh; 
@@ -73,7 +73,7 @@
   border-radius: 8;
   position: relative;
   display: -webkit-inline-flex;
-  box-shadow: 10px 10px #d6dbda;
+  box-shadow: 6px 6px #8b8d8d;
   margin-inline-start: 30px;
   margin-top: 4vh;
   
