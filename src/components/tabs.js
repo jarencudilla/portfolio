@@ -1,6 +1,8 @@
 import React from 'react'; 
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import VCards from './cards';
+import { Wrapper, Status } from "@googlemaps/react-wrapper";
+
 
 function HTabs() 
 { 
@@ -28,6 +30,11 @@ function HTabs()
     <TabPanel>
       <div> 
         Contact Form
+
+        <label htmlFor="lat">Latitude</label>
+        <input type="number" id="lat" name="lat" value={center.lat} onChange={(event) =>
+    setCenter({ ...center, lat: Number(event.target.value) })}/>
+
 
         <label>Name</label>
         <label>Email</label>
