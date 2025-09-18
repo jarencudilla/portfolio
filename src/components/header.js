@@ -4,9 +4,10 @@ import '../styles/App.css';
 function Header()
 {
 return <div>
-<h3 className="h3-text">I am Jaren,</h3>
-<h4 className="h4-text">full-time dad, a noob gamer, coffee lover, bacon lover, a gardener,
-blogger, noob video editor and a Youtuber.</h4>
+<h3 className="h3-text">Hi, I'm Jaren Cudilla</h3>
+<h4 className="h4-text">Software Developer | Full Stack Engineer | Tech Enthusiast</h4>
+<p className="bio-text">Passionate about creating innovative solutions and building meaningful applications. 
+Always learning, always coding.</p>
 </div>
 }
 export default Header;

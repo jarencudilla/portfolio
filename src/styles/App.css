@@ -52,6 +52,16 @@
   padding-top: 0px;
   margin-top: 2px;
   color: #060308;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+.bio-text {
+  color: #666;
+  font-size: 16px;
+  max-width: 600px;
+  margin: 15px auto 0;
+  line-height: 1.5;
 }
 
 .app-logo {
