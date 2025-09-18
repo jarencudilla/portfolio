@@ -7,15 +7,15 @@ function vCards()
         return <div className="projects-container">
         <Card className='card-border'>
           <Card.Body>
-            <Card.Title><h2>React Portfolio Website</h2></Card.Title>
+            <Card.Title><h2>QA Automation Framework</h2></Card.Title>
             <Card.Text>
-              <h6>A responsive portfolio website built with React.js featuring modern design, 
-              interactive components, and smooth animations. Showcases projects, skills, and experience 
-              with a clean, professional interface.</h6>
+              <h6>Comprehensive test automation framework implemented at Proudcloud, featuring 
+              end-to-end testing, API testing, and continuous integration. Reduced testing time 
+              by 70% and improved release confidence.</h6>
               <div className="tech-stack">
-                <span className="tech-tag">React</span>
-                <span className="tech-tag">CSS3</span>
-                <span className="tech-tag">JavaScript</span>
+                <span className="tech-tag">Selenium</span>
+                <span className="tech-tag">Cypress</span>
+                <span className="tech-tag">Jenkins</span>
               </div>
             </Card.Text>
           </Card.Body>
@@ -23,15 +23,15 @@ function vCards()
         
         <Card className='card-border'>
           <Card.Body>
-            <Card.Title><h2>E-Commerce Platform</h2></Card.Title>
+            <Card.Title><h2>Content Syndication Platform</h2></Card.Title>
             <Card.Text>
-              <h6>Full-stack e-commerce solution with user authentication, product management, 
-              shopping cart functionality, and payment integration. Built with modern web technologies 
-              for optimal performance and user experience.</h6>
+              <h6>Multi-blog content management and syndication system that distributes content 
+              across 5 different blogs. Features automated publishing, SEO optimization, 
+              and analytics tracking for content performance.</h6>
               <div className="tech-stack">
-                <span className="tech-tag">Node.js</span>
-                <span className="tech-tag">Express</span>
-                <span className="tech-tag">MongoDB</span>
+                <span className="tech-tag">WordPress</span>
+                <span className="tech-tag">RSS</span>
+                <span className="tech-tag">Analytics</span>
               </div>
             </Card.Text>
           </Card.Body>
@@ -39,15 +39,15 @@ function vCards()
         
         <Card className='card-border'>
           <Card.Body>
-            <Card.Title><h2>Task Management App</h2></Card.Title>
+            <Card.Title><h2>Quality Metrics Dashboard</h2></Card.Title>
             <Card.Text>
-              <h6>A collaborative task management application with real-time updates, 
-              drag-and-drop functionality, team collaboration features, and progress tracking. 
-              Designed for productivity and team coordination.</h6>
+              <h6>Real-time dashboard for tracking quality metrics, test coverage, 
+              defect trends, and team performance. Provides actionable insights for 
+              continuous improvement and stakeholder reporting.</h6>
               <div className="tech-stack">
-                <span className="tech-tag">React</span>
-                <span className="tech-tag">Firebase</span>
-                <span className="tech-tag">Material-UI</span>
+                <span className="tech-tag">Power BI</span>
+                <span className="tech-tag">SQL</span>
+                <span className="tech-tag">APIs</span>
               </div>
             </Card.Text>
           </Card.Body>
@@ -55,15 +55,15 @@ function vCards()
         
         <Card className='card-border'>
           <Card.Body>
-            <Card.Title><h2>Weather Dashboard</h2></Card.Title>
+            <Card.Title><h2>Blog Network Management</h2></Card.Title>
             <Card.Text>
-              <h6>Interactive weather application with location-based forecasts, 
-              historical data visualization, and responsive design. Features real-time weather updates 
-              and intuitive user interface for weather tracking.</h6>
+              <h6>Comprehensive management system for 5 technology blogs, featuring 
+              content planning, editorial calendars, SEO optimization, and performance 
+              analytics. Streamlined content creation and publication workflow.</h6>
               <div className="tech-stack">
-                <span className="tech-tag">JavaScript</span>
-                <span className="tech-tag">API Integration</span>
-                <span className="tech-tag">Chart.js</span>
+                <span className="tech-tag">CMS</span>
+                <span className="tech-tag">SEO Tools</span>
+                <span className="tech-tag">Analytics</span>
               </div>
             </Card.Text>
           </Card.Body>
